@@ -1,7 +1,6 @@
-Use the following ordered and unordered lists.
 
-  Ordered List
-  ***************************************
+Ordered List
+***************************************
 
   #. Step 1.
   #. Step 2.

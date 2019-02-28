@@ -3,12 +3,16 @@
 Introduction
 ##############
 
+.. image:: nc_images/color_toilet.jpg
+	:align: center
+	:alt: Colorful toilet
+
 The |A120| is the latest model of our composting toilet. Its feature include:
 
 Portability
 ***********
 
-At 10 lb and taking up only 8 gallons of volumen, you can easily take the |A120| with you to your parties and travels.
+At 10 lb and taking up only 8 gallons of spalce, you can easily take the |A120| with you to your parties and travels.
 
 Off-grid
 *********

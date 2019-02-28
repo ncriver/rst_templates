@@ -7,7 +7,7 @@ Introduction
 	:align: center
 	:alt: Colorful toilet
 
-The |A120| is the latest model of our composting toilet. Its feature include:
+The |A120| is the latest model of our composting toilet. Its features include:
 
 Portability
 ***********

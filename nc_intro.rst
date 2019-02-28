@@ -20,6 +20,21 @@ Affordability
 
 Decades of research has lead to multiple refinements, including a simple and effective design that keeps the production costs low. You will be happy about the simple design and your wallet will be happy about not having to part with its friends.
 
+API for Advanced Users
+***********************
+
+The |A120| comes with a powerful API written in Python that lets power users customize its maintenance schedule and indicator lights. 
+For details, go to our `API site <http://goldenthrone.com/api>`.
+
+Here is a code sample:
+
+.. codeblock:: Python
+
+	import golden_throne
+	toilet = golden_throne.Toilet(id = 'asdx11')
+	toilet.set_light('main', 'blue')
+
+
 Reviews
 *********
 
